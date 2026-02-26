@@ -1,0 +1,13 @@
+{
+  "agent_name": "Health Insurance Voice Agent",
+  "agent_type": "voice",
+  "accessor": "voice",
+  "has_module_outputs": false,
+  "has_knowledge_base": true,
+  "schema": {
+    "response": "string - The agent's response to the member's question",
+    "topic": "string - The category of the question (coverage, claims, billing, enrollment, providers, general)",
+    "sources_used": "boolean - Whether knowledge base sources were referenced",
+    "follow_up_needed": "boolean - Whether the member should follow up with additional steps"
+  }
+}
