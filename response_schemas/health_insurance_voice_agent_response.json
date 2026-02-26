@@ -1,7 +1,7 @@
 {
   "agent_name": "Health Insurance Voice Agent",
-  "agent_id": "69a0a657315bb364c6d645f1",
-  "description": "Handles inbound voice conversations with policyholders and prospects. Answers questions about coverage, claims, deductibles, copays, network providers, and enrollment by searching the company's policy knowledge base. Maintains a professional, empathetic, and compliant tone throughout.",
+  "agent_id": "69a0ae4450d509e818489859",
+  "description": "Handles inbound voice conversations with policyholders and prospects. Answers questions about coverage, claims, deductibles, copays, network providers, and enrollment by searching the company's policy knowledge base. Speaks in a warm, natural, human-like conversational tone.",
   "agent_type": "voice",
   "accessor": "websocket",
   "auto_generated": true

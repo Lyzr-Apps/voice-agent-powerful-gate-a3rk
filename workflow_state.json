@@ -2,7 +2,7 @@
   "agents": [
     {
       "name": "Health Insurance Voice Agent",
-      "agent_id": "69a0a657315bb364c6d645f1",
+      "agent_id": "69a0ae4450d509e818489859",
       "type": "voice",
       "has_knowledge_base": true,
       "rag_id": "69a0a64500c2d274880eff35",
