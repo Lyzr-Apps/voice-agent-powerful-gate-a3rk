@@ -6,7 +6,7 @@
       "type": "voice",
       "has_knowledge_base": true,
       "rag_id": "69a0a64500c2d274880eff35",
-      "voice_config": {"model": "gpt-4o-mini-realtime", "voice": "sage"}
+      "voice_config": {"model": "gpt-4o-mini-realtime", "voice": "shimmer"}
     }
   ],
   "knowledge_bases": [
